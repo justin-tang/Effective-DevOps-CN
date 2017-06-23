@@ -16,3 +16,11 @@ Katherine和Jennifer没有去描绘一种万金油或者是确切的解决方法
 
 Katherine和Jennifer在这本书中给了你们非常深入的指导。我对亲爱的读者们有一个建议：尽可能的把这些指导放在你的工作环境下思考。
 
+John Allspaw
+
+Etsy，首席技术官
+
+纽约，布鲁克林
+
+
+
