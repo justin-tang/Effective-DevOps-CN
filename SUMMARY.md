@@ -6,7 +6,7 @@
   * [第一部分-概述](PART_I/CHAPTER_I/README.md)
     * [DevOps文化](PART_I/CHAPTER_I/A_Snapshot_of_DevOps_Culture.md)
     * [文化的演变](/PART_I/CHAPTER_I/The_Evolution_of_Culture.md)
-    * [故事的价值](/PART_I/CHAPTER_I/The_Value_of_the_Story.md)
+    * [故事的意义](/PART_I/CHAPTER_I/The_Value_of_the_Story.md)
     * [Katherine的故事](/PART_I/CHAPTER_I/Katherines_Story.md)
     * [Jennifer的故事](/PART_I/CHAPTER_I/Jennifers_Story.md)
 
