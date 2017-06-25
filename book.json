@@ -3,13 +3,15 @@
   "generator": "site",
   "title": "高效DevOps",
   "author" : "贾坤 译",
-  "plugins": ["splitter", "github", "layout", "anchors"],
+  "plugins": ["splitter", "github", "anchors", "page-footer-ex"],
   "pluginsConfig": {
     "github": {
         "url": "https://github.com/jarrekk"
     },
-    "layout": {
-      "headerPath" : "include/DECLARE.html"
+    "page-footer-ex":{
+      "copyright":"mrcode",
+      "update_label":"update",
+      "update_format":"YYYY-MM-DD HH:mm:ss"
     }
   },
   "variables": {
