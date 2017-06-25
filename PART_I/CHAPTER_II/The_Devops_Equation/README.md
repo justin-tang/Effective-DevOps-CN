@@ -3,7 +3,8 @@
 # DevOps方程式
 
 > 把一项运动认为是新事物的危险之处在于它可能不会拥抱一切它认为的旧的事物。
-  —Lee Roy Beach et al., Naturalistic Decision Making and Related Research Lines
+>
+> —Lee Roy Beach et al., Naturalistic Decision Making and Related Research Lines
 
 这本书是不是一个非常现实的DevOps处方。当我们描述常见的误解和反模式，我们更感兴趣的是描述一个成功的DevOps文化应该是什么样子的以及他们在组织和环境中是如何应用的。
 
