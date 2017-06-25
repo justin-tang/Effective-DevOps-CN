@@ -1,4 +1,4 @@
-{% include "include/DECLARE.md" %}
+{% include "/include/DECLARE.md" %}
 
 # 第一部分 -- DevOps概述
 

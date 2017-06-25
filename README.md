@@ -8,4 +8,4 @@ GitHub：jarrekk
 
 目录：[点此进入](/SUMMARY.md)
 
-{% include "include/DECLARE.md" %}
+{% include "/include/DECLARE.md" %}

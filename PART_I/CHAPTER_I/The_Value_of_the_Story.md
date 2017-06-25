@@ -1,4 +1,4 @@
-{% include "include/DECLARE.md" %}
+{% include "/include/DECLARE.md" %}
 
 # 故事的意义
 
