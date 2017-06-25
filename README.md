@@ -4,7 +4,7 @@ Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at 
 
 作者：贾坤
 
-GitHub：jarrekk
+GitHub：[jarrekk](https://github.com/jarrekk)
 
 目录：[点此进入](/SUMMARY.md)
 
