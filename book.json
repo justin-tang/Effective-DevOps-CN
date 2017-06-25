@@ -3,15 +3,10 @@
   "generator": "site",
   "title": "高效DevOps",
   "author" : "贾坤 译",
-  "plugins": ["splitter", "github", "anchors", "page-footer-ex"],
+  "plugins": ["splitter", "github", "anchors"],
   "pluginsConfig": {
     "github": {
         "url": "https://github.com/jarrekk"
-    },
-    "page-footer-ex":{
-      "copyright":"本书《高效DevOps》翻译自Effective DevOps，转载请注明出处",
-      "update_label":"更新于",
-      "update_format":"YYYY-MM-DD HH:mm:ss"
     }
   },
   "variables": {
