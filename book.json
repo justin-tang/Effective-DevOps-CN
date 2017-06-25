@@ -3,7 +3,7 @@
   "generator": "site",
   "title": "高效DevOps",
   "author" : "贾坤 译",
-  "plugins": ["splitter", "github", "header"],
+  "plugins": ["splitter", "github", "layout"],
   "pluginsConfig": {
     "github": {
         "url": "https://github.com/jarrekk"
