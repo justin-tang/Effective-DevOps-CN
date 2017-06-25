@@ -9,8 +9,8 @@
         "url": "https://github.com/jarrekk"
     },
     "page-footer-ex":{
-      "copyright":"mrcode",
-      "update_label":"update",
+      "copyright":"本书《高效DevOps》翻译自Effective DevOps，转载请注明出处",
+      "update_label":"更新于",
       "update_format":"YYYY-MM-DD HH:mm:ss"
     }
   },
