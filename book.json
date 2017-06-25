@@ -3,7 +3,7 @@
   "generator": "site",
   "title": "高效DevOps",
   "author" : "贾坤 译",
-  "plugins": ["autocover", "splitter", "github"],
+  "plugins": ["autocover", "splitter", "github", "header"],
   "pluginsConfig": {
     "github": {
         "url": "https://github.com/jarrekk"
@@ -23,6 +23,9 @@
         "background": {
             "color": "#FFF"
         }
+    },
+    "layout": {
+      "headerPath" : "include/DECLARE.md"
     }
   },
   "variables": {
