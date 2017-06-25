@@ -3,26 +3,10 @@
   "generator": "site",
   "title": "高效DevOps",
   "author" : "贾坤 译",
-  "plugins": ["autocover", "splitter", "github", "header"],
+  "plugins": ["splitter", "github", "header"],
   "pluginsConfig": {
     "github": {
         "url": "https://github.com/jarrekk"
-    },
-    "autocover": {
-        "title": "高效DevOps",
-        "author": "贾坤 译",
-        "font": {
-            "size": null,
-            "family": "Impact",
-            "color": "#000"
-        },
-        "size": {
-            "w": 1800,
-            "h": 2360
-        },
-        "background": {
-            "color": "#FFF"
-        }
     },
     "layout": {
       "headerPath" : "include/DECLARE.md"
