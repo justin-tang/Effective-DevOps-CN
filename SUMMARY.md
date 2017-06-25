@@ -9,6 +9,7 @@
     * [故事的意义](/PART_I/CHAPTER_I/The_Value_of_the_Story.md)
     * [Katherine的故事](/PART_I/CHAPTER_I/Katherines_Story.md)
     * [Jennifer的故事](/PART_I/CHAPTER_I/Jennifers_Story.md)
+    * [用故事阐述DevOps](/PART_I/CHAPTER_I/Illustrating_DevOps_with_Stories.md)
 
 
 
