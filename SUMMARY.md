@@ -17,3 +17,4 @@
   - [DevOps方程式](/PART_I/CHAPTER_II/The_Devops_Equation/README.md)
     - [DevOps在民间](/PART_I/CHAPTER_II/The_Devops_Equation/Devops_as_Folk_Model.md)
     - [旧观念和新观念](/PART_I/CHAPTER_II/The_Devops_Equation/The_Old_View_and_the_New_View.md)
+    - [DevOps约定](/PART_I/CHAPTER_II/The_Devops_Equation/The_Devops_Compact.md)
