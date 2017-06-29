@@ -19,6 +19,6 @@
     - [旧观念和新观念](/PART_I/CHAPTER_II/The_Devops_Equation/The_Old_View_and_the_New_View.md)
     - [DevOps约定](/PART_I/CHAPTER_II/The_Devops_Equation/The_Devops_Compact.md)
 * [第三章-DevOps的历史](/PART_I/CHAPTER_III/README.md)
-  - [DevOps人员是运维工程师](/PART_I/CHAPTER_III/Developer_as_Operator.md)
+  - [DevOps人员作为运维工程师](/PART_I/CHAPTER_III/Developer_as_Operator.md)
   - [软件工程师的出现](/PART_I/CHAPTER_III/The_Advent_of_Software_Engineering.md)
   - [专有软件和标准化的出现](/PART_I/CHAPTER_III/The_Advent_of_Proprietary_Software_and_Standardization.md)
