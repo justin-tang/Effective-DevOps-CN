@@ -23,4 +23,6 @@
   - [软件工程师的出现](/PART_I/CHAPTER_III/The_Advent_of_Software_Engineering.md)
   - [专有软件和标准化的出现](/PART_I/CHAPTER_III/The_Advent_of_Proprietary_Software_and_Standardization.md)
   - [网络时代](/PART_I/CHAPTER_III/The_Age_of_the_Network.md)
-  - [全球社区的开始](/PART_I/CHAPTER_III/The_Beginnings of_a_Global_Community.md)
+  - [全球社区的开始](/PART_I/CHAPTER_III/The_Beginnings_of_a_Global_Community.md)
+  - [应用和互联网时代](/PART_I/CHAPTER_III/The_Age_of_Applications_and_the_Web.md)
+  - [软件开发体系的演化](/PART_I/CHAPTER_III/The_Growth_of_Software_Development_Methodologies.md)
