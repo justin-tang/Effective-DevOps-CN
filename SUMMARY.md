@@ -26,3 +26,5 @@
   - [全球社区的开始](/PART_I/CHAPTER_III/The_Beginnings_of_a_Global_Community.md)
   - [应用和互联网时代](/PART_I/CHAPTER_III/The_Age_of_Applications_and_the_Web.md)
   - [软件开发体系的演化](/PART_I/CHAPTER_III/The_Growth_of_Software_Development_Methodologies.md)
+  - [开源软件和私有服务](/PART_I/CHAPTER_III/Open_Source_Software_Proprietary_Services.md)
+  - [灵活的基础架构](/PART_I/CHAPTER_III/Agile_Infrastructure.md)
