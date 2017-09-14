@@ -1,4 +1,4 @@
-# Effective-DevOps - 《高效DevOps - 构建无缝合作的文化及大规模工具使用》 中文翻译
+## Effective-DevOps 《高效DevOps - 构建无缝合作的文化及大规模工具使用》 中文翻译
 
 作者；Jennifers、Katherines
 
